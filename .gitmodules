@@ -1,0 +1,3 @@
+[submodule "worker-pyodide-console"]
+	path = worker-pyodide-console
+	url = https://github.com/hoodmane/worker-pyodide-console.git
